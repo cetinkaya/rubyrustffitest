@@ -1,5 +1,5 @@
 # rubyrustffitest
-Test for using ffi in ruby for calling a function from a shared library created with rust.
+Test for using ffi in ruby for calling a function from a dynamic library created with rust.
 
 We have a rust function to calculate factorial in fact.rs:
 
